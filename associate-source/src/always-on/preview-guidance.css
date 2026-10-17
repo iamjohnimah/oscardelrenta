@@ -1,0 +1,18 @@
+/* Shared readable copy beside preview and sizing decisions in every channel. */
+.sizing-guidance {
+  display: block;
+  font-size: 12px;
+  line-height: 1.55;
+  font-weight: 400;
+  letter-spacing: 0;
+  text-transform: none;
+  color: #6f716e;
+  margin-top: 8px;
+}
+.tryon-beta > .sizing-guidance { flex-basis: 100%; margin: 0; font-size: inherit; }
+.visual-fit-options > .tryon-beta,
+.fit-compare-modal > .tryon-beta { position: static; font-size: 12px; padding: 12px 0 18px; }
+.image-fullscreen > .tryon-beta { flex: none; margin: 0; padding: 8px 16px; justify-content: center; text-align: center; background: #fff; }
+.look-lightbox-details > .tryon-beta { font-size: 12px; }
+.as-fit-piece .sizing-guidance { max-width: 52ch; }
+[data-theme=dark] .sizing-guidance { color: var(--tone-line-strong); }

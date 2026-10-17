@@ -1,0 +1,1 @@
+export default function LoadingBar({label='Preparing your preview'}:{label?:string}){return <div className="atelier-loading" role="status" style={{display:'grid',justifyItems:'center',gap:12,padding:24,fontFamily:'Afacad,Arial,sans-serif'}}><span className="spinner"/><span>{label}</span></div>}

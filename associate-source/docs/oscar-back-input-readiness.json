@@ -1,0 +1,304 @@
+{
+  "checkedAt": "2026-10-17",
+  "environment": "dev",
+  "partner": "demo-site",
+  "feature": "Back try-on and video try-on",
+  "totalOscarPieces": 49,
+  "ready": 0,
+  "missing": [
+    {
+      "garmentId": "demo-site-mixed-botanical-embroidered-dress",
+      "title": "Mixed Botanical Embroidered Dress",
+      "retailerUrl": "https://www.oscardelarenta.com/products/mixed-botanical-embroidered-dress-26fe186new-nav",
+      "action": "Verify the matching original back photo; tag the correct variant as back_flat in the authenticated catalogue; then verify same-person back and turn video."
+    },
+    {
+      "garmentId": "odlr-mixed-botanical-o-pochette-brn",
+      "title": "Mixed Botanical Printed O Pochette",
+      "retailerUrl": "https://www.oscardelarenta.com/products/mixed-botanical-printed-o-pochette-26fh0592saf-brn",
+      "action": "Verify the matching original back photo; tag the correct variant as back_flat in the authenticated catalogue; then verify same-person back and turn video."
+    },
+    {
+      "garmentId": "crystal-pave-knot-minaudiere",
+      "title": "Crystal Pavé Knot Minaudière",
+      "retailerUrl": "https://www.oscardelarenta.com/products/crystal-pave-knot-minaudiere-26rh169crt-pnk",
+      "action": "Verify the matching original back photo; tag the correct variant as back_flat in the authenticated catalogue; then verify same-person back and turn video."
+    },
+    {
+      "garmentId": "odlr-the-alibi-in-wicker-wht",
+      "title": "The Alibi in Wicker",
+      "retailerUrl": "https://www.oscardelarenta.com/products/the-alibi-in-wicker-26ph206wic-wht",
+      "action": "Verify the matching original back photo; tag the correct variant as back_flat in the authenticated catalogue; then verify same-person back and turn video."
+    },
+    {
+      "garmentId": "odlr-crystal-drop-earrings-vio",
+      "title": "Crystal Drop Earrings",
+      "retailerUrl": "https://www.oscardelarenta.com/products/crystal-drop-earrings-f26j956-vio",
+      "action": "Verify the matching original back photo; tag the correct variant as back_flat in the authenticated catalogue; then verify same-person back and turn video."
+    },
+    {
+      "garmentId": "odlr-embossed-mini-tro-bag-cog",
+      "title": "Embossed Mini TRO Bag",
+      "retailerUrl": "https://www.oscardelarenta.com/products/embossed-mini-tro-bag-26fh003ecf-cog",
+      "action": "Verify the matching original back photo; tag the correct variant as back_flat in the authenticated catalogue; then verify same-person back and turn video."
+    },
+    {
+      "garmentId": "odlr-mixed-botanical-silk-twill-pant-bmm",
+      "title": "Mixed Botanical Silk Twill Pant",
+      "retailerUrl": "https://www.oscardelarenta.com/products/mixed-botanical-silk-twill-pant-26fn3092mbi-bmm",
+      "action": "Verify the matching original back photo; tag the correct variant as back_flat in the authenticated catalogue; then verify same-person back and turn video."
+    },
+    {
+      "garmentId": "odlr-dominican-mixed-floral-guipure-high-low-dress-mul",
+      "title": "Dominican Mixed-Floral Guipure High-Low Dress",
+      "retailerUrl": "https://www.oscardelarenta.com/products/dominican-mixed-floral-guipure-high-low-dress-26pe613tul-mul?variant=52676706599275",
+      "action": "Verify the matching original back photo; tag the correct variant as back_flat in the authenticated catalogue; then verify same-person back and turn video."
+    },
+    {
+      "garmentId": "odlr-dominican-mixed-floral-wide-leg-pant-bru",
+      "title": "Dominican Mixed-Floral Wide Leg Pant",
+      "retailerUrl": "https://www.oscardelarenta.com/products/dominican-mixed-floral-wide-leg-pant-26pn331moc-bru",
+      "action": "Verify the matching original back photo; tag the correct variant as back_flat in the authenticated catalogue; then verify same-person back and turn video."
+    },
+    {
+      "garmentId": "odlr-knot-clutch-blk",
+      "title": "Knot Clutch",
+      "retailerUrl": "https://www.oscardelarenta.com/products/knot-clutch-00nh187clf-blk",
+      "action": "Verify the matching original back photo; tag the correct variant as back_flat in the authenticated catalogue; then verify same-person back and turn video."
+    },
+    {
+      "garmentId": "odlr-chine-mixed-floral-sweetheart-gown-swm",
+      "title": "Chiné Dominican Mixed-Floral Chiffon Sweetheart Gown",
+      "retailerUrl": "https://www.oscardelarenta.com/products/chine-dominican-mixed-floral-chiffon-sweetheart-gown-26pn052cms-swm",
+      "action": "Verify the matching original back photo; tag the correct variant as back_flat in the authenticated catalogue; then verify same-person back and turn video."
+    },
+    {
+      "garmentId": "embroidered-column-gown",
+      "title": "Embroidered Column Gown",
+      "retailerUrl": "https://www.oscardelarenta.com/products/mother-of-pearl-embroidered-column-gown-26re643tul-sil",
+      "action": "Verify the matching original back photo; tag the correct variant as back_flat in the authenticated catalogue; then verify same-person back and turn video."
+    },
+    {
+      "garmentId": "odlr-mixed-botanical-off-shoulder-dress-bsm",
+      "title": "Mixed Botanical Off-Shoulder Dress",
+      "retailerUrl": "https://www.oscardelarenta.com/products/mixed-botanical-off-shoulder-dress-26fn235mvb-bsm",
+      "action": "Verify the matching original back photo; tag the correct variant as back_flat in the authenticated catalogue; then verify same-person back and turn video."
+    },
+    {
+      "garmentId": "odlr-mixed-botanical-tie-neck-cardigan-bsm",
+      "title": "Mixed Botanical Tie-Neck Cardigan",
+      "retailerUrl": "https://www.oscardelarenta.com/products/mixed-botanical-tie-neck-cardigan-26fn129fts-bsm",
+      "action": "Verify the matching original back photo; tag the correct variant as back_flat in the authenticated catalogue; then verify same-person back and turn video."
+    },
+    {
+      "garmentId": "odlr-maple-leaves-faille-dress-grm",
+      "title": "Maple Leaves Faille Dress",
+      "retailerUrl": "https://www.oscardelarenta.com/products/maple-leaves-faille-dress-26fn264fpf-grm",
+      "action": "Verify the matching original back photo; tag the correct variant as back_flat in the authenticated catalogue; then verify same-person back and turn video."
+    },
+    {
+      "garmentId": "o-satin-minaudiere",
+      "title": "O Satin Minaudière",
+      "retailerUrl": "https://www.oscardelarenta.com/products/o-satin-minaudiere-00nh169sat-chp",
+      "action": "Verify the matching original back photo; tag the correct variant as back_flat in the authenticated catalogue; then verify same-person back and turn video."
+    },
+    {
+      "garmentId": "odlr-mixed-botanical-cropped-jacket-nav",
+      "title": "Mixed Botanical Cropped Jacket",
+      "retailerUrl": "https://www.oscardelarenta.com/products/mixed-botanical-cropped-jacket-26fe187new-nav?variant=53342635000171",
+      "action": "Verify the matching original back photo; tag the correct variant as back_flat in the authenticated catalogue; then verify same-person back and turn video."
+    },
+    {
+      "garmentId": "odlr-mixed-botanical-tie-detailed-blouse-bsm",
+      "title": "Mixed Botanical Tie-Detailed Blouse",
+      "retailerUrl": "https://www.oscardelarenta.com/products/mixed-botanical-tie-detailed-blouse-26fn716mbv-bsm",
+      "action": "Verify the matching original back photo; tag the correct variant as back_flat in the authenticated catalogue; then verify same-person back and turn video."
+    },
+    {
+      "garmentId": "chine-palm-leaves-jacket",
+      "title": "Chiné Palm Leaves Jacket",
+      "retailerUrl": "https://www.oscardelarenta.com/products/chine-palm-leaves-jacket-26pn509lcv-eiv?variant=52676722753899",
+      "action": "Verify the matching original back photo; tag the correct variant as back_flat in the authenticated catalogue; then verify same-person back and turn video."
+    },
+    {
+      "garmentId": "butterfly-embroidered-o-minaudiere",
+      "title": "Butterfly Embroidered O Minaudière",
+      "retailerUrl": "https://www.oscardelarenta.com/products/butterfly-embroidered-o-minaudiere-26ph169emb-blk",
+      "action": "Verify the matching original back photo; tag the correct variant as back_flat in the authenticated catalogue; then verify same-person back and turn video."
+    },
+    {
+      "garmentId": "odlr-turtleneck-pullover-bsh",
+      "title": "Turtleneck Wool Short-Sleeve Pullover",
+      "retailerUrl": "https://www.oscardelarenta.com/products/turtleneck-wool-short-sleeve-pullover-26fn104mmr-bsh?variant=53342638604651",
+      "action": "Verify the matching original back photo; tag the correct variant as back_flat in the authenticated catalogue; then verify same-person back and turn video."
+    },
+    {
+      "garmentId": "odlr-chrysanthemum-earrings-gol",
+      "title": "Chrysanthemum Earrings",
+      "retailerUrl": "https://www.oscardelarenta.com/products/chrysanthemum-earrings-f26j931-gol",
+      "action": "Verify the matching original back photo; tag the correct variant as back_flat in the authenticated catalogue; then verify same-person back and turn video."
+    },
+    {
+      "garmentId": "odlr-pearl-nest-cuff-bracelet-prl",
+      "title": "Pearl Nest Cuff Bracelet",
+      "retailerUrl": "https://www.oscardelarenta.com/products/pearl-nest-cuff-bracelet-p26j703-prl",
+      "action": "Verify the matching original back photo; tag the correct variant as back_flat in the authenticated catalogue; then verify same-person back and turn video."
+    },
+    {
+      "garmentId": "odlr-beaded-floral-embroidered-pencil-dress-ivr",
+      "title": "Beaded Floral Embroidered Pencil Dress",
+      "retailerUrl": "https://www.oscardelarenta.com/products/beaded-floral-embroidered-pencil-dress-26fe639dsw-ivr",
+      "action": "Verify the matching original back photo; tag the correct variant as back_flat in the authenticated catalogue; then verify same-person back and turn video."
+    },
+    {
+      "garmentId": "odlr-ombre-crewneck-pullover-pbw",
+      "title": "Ombré Crewneck Pullover",
+      "retailerUrl": "https://www.oscardelarenta.com/products/ombre-crewneck-pullover-26fn110omp-pbw",
+      "action": "Verify the matching original back photo; tag the correct variant as back_flat in the authenticated catalogue; then verify same-person back and turn video."
+    },
+    {
+      "garmentId": "oscardelarenta-crystal-fringe-chandelier-earrings-demo",
+      "title": "Crystal Fringe Chandelier Earrings",
+      "retailerUrl": "https://www.oscardelarenta.com/products/crystal-fringe-chandelier-earrings-p26j911-top?variant=53069432717675",
+      "action": "Verify the matching original back photo; tag the correct variant as back_flat in the authenticated catalogue; then verify same-person back and turn video."
+    },
+    {
+      "garmentId": "odlr-mixed-botanical-midi-skirt-bru",
+      "title": "Mixed Botanical Midi Skirt",
+      "retailerUrl": "https://www.oscardelarenta.com/products/mixed-botanical-midi-skirt-26fn4042mck-bru?variant=53342642930027",
+      "action": "Verify the matching original back photo; tag the correct variant as back_flat in the authenticated catalogue; then verify same-person back and turn video."
+    },
+    {
+      "garmentId": "printed-twinset-cardigan",
+      "title": "Printed Twinset Cardigan",
+      "retailerUrl": "https://www.oscardelarenta.com/products/printed-twinset-cardigan-27rn1255clc-bsu",
+      "action": "Verify the matching original back photo; tag the correct variant as back_flat in the authenticated catalogue; then verify same-person back and turn video."
+    },
+    {
+      "garmentId": "odlr-wool-wide-leg-pant-ind",
+      "title": "Wool Wide-Leg Pant",
+      "retailerUrl": "https://www.oscardelarenta.com/products/wool-wide-leg-pant-26fn320wdt-ind",
+      "action": "Verify the matching original back photo; tag the correct variant as back_flat in the authenticated catalogue; then verify same-person back and turn video."
+    },
+    {
+      "garmentId": "ombre-feather-embroidered-silk-chiffon-gown",
+      "title": "Ombré Feather Embroidered Silk Chiffon Gown",
+      "retailerUrl": "https://www.oscardelarenta.com/products/26pe057sch-bsh",
+      "action": "Verify the matching original back photo; tag the correct variant as back_flat in the authenticated catalogue; then verify same-person back and turn video."
+    },
+    {
+      "garmentId": "palm-leaves-metallic-cocktail-dress",
+      "title": "Palm Leaves Metallic Cocktail Dress",
+      "retailerUrl": "https://www.oscardelarenta.com/products/palm-leaves-metallic-cocktail-dress-26pe649tul-bei?variant=53069417480555",
+      "action": "Verify the matching original back photo; tag the correct variant as back_flat in the authenticated catalogue; then verify same-person back and turn video."
+    },
+    {
+      "garmentId": "odlr-o-knot-bracelet-gol",
+      "title": "O Knot Bracelet",
+      "retailerUrl": "https://www.oscardelarenta.com/products/o-knot-bracelet-p25j701-gol",
+      "action": "Verify the matching original back photo; tag the correct variant as back_flat in the authenticated catalogue; then verify same-person back and turn video."
+    },
+    {
+      "garmentId": "printed-twinset-tank",
+      "title": "Printed Twinset Tank",
+      "retailerUrl": "https://www.oscardelarenta.com/products/printed-twinset-tank-27rn1266clc-bsu",
+      "action": "Verify the matching original back photo; tag the correct variant as back_flat in the authenticated catalogue; then verify same-person back and turn video."
+    },
+    {
+      "garmentId": "chine-hibiscus-threadwork-cropped-cardigan",
+      "title": "Chiné Hibiscus Threadwork Cropped Cardigan",
+      "retailerUrl": "https://www.oscardelarenta.com/products/chine-hibiscus-threadwork-cropped-cardigan-26pe1455hcn-ivr",
+      "action": "Verify the matching original back photo; tag the correct variant as back_flat in the authenticated catalogue; then verify same-person back and turn video."
+    },
+    {
+      "garmentId": "iris-printed-saffiano-o-pochette",
+      "title": "Iris Printed Saffiano O Pochette",
+      "retailerUrl": "https://www.oscardelarenta.com/products/iris-printed-saffiano-o-pochette-27rh059pcf-bmm",
+      "action": "Verify the matching original back photo; tag the correct variant as back_flat in the authenticated catalogue; then verify same-person back and turn video."
+    },
+    {
+      "garmentId": "odlr-faded-mixed-botanical-denim-pant-whm",
+      "title": "Faded Mixed Botanical Denim Pant",
+      "retailerUrl": "https://www.oscardelarenta.com/products/faded-mixed-botanical-denim-pant-26fn3182fbn-whm",
+      "action": "Verify the matching original back photo; tag the correct variant as back_flat in the authenticated catalogue; then verify same-person back and turn video."
+    },
+    {
+      "garmentId": "odlr-dominican-landscape-oversized-pullover-bgt",
+      "title": "Dominican Landscape Oversized Pullover",
+      "retailerUrl": "https://www.oscardelarenta.com/products/dominican-landscape-oversized-pullover-26pn104liv-bgt?variant=52676711743851",
+      "action": "Verify the matching original back photo; tag the correct variant as back_flat in the authenticated catalogue; then verify same-person back and turn video."
+    },
+    {
+      "garmentId": "odlr-mixed-botanical-scarf-lbm",
+      "title": "Mixed Botanical Scarf",
+      "retailerUrl": "https://www.oscardelarenta.com/products/mixed-botanical-scarf-26fn1002-lbm",
+      "action": "Verify the matching original back photo; tag the correct variant as back_flat in the authenticated catalogue; then verify same-person back and turn video."
+    },
+    {
+      "garmentId": "odlr-mixed-botanical-embroidered-georgette-caftan-ivr",
+      "title": "Mixed Botanical Embroidered Georgette Caftan",
+      "retailerUrl": "https://www.oscardelarenta.com/products/mixed-botanical-embroidered-georgette-caftan-26fe906hsg-ivr",
+      "action": "Verify the matching original back photo; tag the correct variant as back_flat in the authenticated catalogue; then verify same-person back and turn video."
+    },
+    {
+      "garmentId": "odlr-hibiscus-embroidered-knit-pullover-brn",
+      "title": "Hibiscus Embroidered Knit Pullover",
+      "retailerUrl": "https://www.oscardelarenta.com/products/hibiscus-embroidered-knit-pullover-26pe159chi-brn",
+      "action": "Verify the matching original back photo; tag the correct variant as back_flat in the authenticated catalogue; then verify same-person back and turn video."
+    },
+    {
+      "garmentId": "sequin-cascade-earrings",
+      "title": "Sequin Cascade Earrings",
+      "retailerUrl": "https://www.oscardelarenta.com/products/sequin-cascade-earrings-r27j114-yel",
+      "action": "Verify the matching original back photo; tag the correct variant as back_flat in the authenticated catalogue; then verify same-person back and turn video."
+    },
+    {
+      "garmentId": "dominican-landscape-pencil-skirt",
+      "title": "Dominican Landscape Pencil Skirt",
+      "retailerUrl": "https://www.oscardelarenta.com/products/dominican-landscape-pencil-skirt-26pn401pta-bgt?variant=52676719804779",
+      "action": "Verify the matching original back photo; tag the correct variant as back_flat in the authenticated catalogue; then verify same-person back and turn video."
+    },
+    {
+      "garmentId": "oscardelarenta-knot-clutch-demo",
+      "title": "Knot Clutch",
+      "retailerUrl": "https://www.oscardelarenta.com/products/knot-clutch-00nh187clf-blk?variant=52115350258027",
+      "action": "Verify the matching original back photo; tag the correct variant as back_flat in the authenticated catalogue; then verify same-person back and turn video."
+    },
+    {
+      "garmentId": "mixed-botanical-scarf",
+      "title": "Mixed Botanical Scarf",
+      "retailerUrl": "https://www.oscardelarenta.com/products/mixed-botanical-scarf-26fn1002-gmu",
+      "action": "Verify the matching original back photo; tag the correct variant as back_flat in the authenticated catalogue; then verify same-person back and turn video."
+    },
+    {
+      "garmentId": "wildflower-drop-clip-on-earrings",
+      "title": "Wildflower Drop Clip-On Earrings",
+      "retailerUrl": "https://www.oscardelarenta.com/products/wildflower-drop-clip-on-earrings-f26j946-pea",
+      "action": "Verify the matching original back photo; tag the correct variant as back_flat in the authenticated catalogue; then verify same-person back and turn video."
+    },
+    {
+      "garmentId": "the-topaz",
+      "title": "The Topaz",
+      "retailerUrl": "https://www.oscardelarenta.com/products/the-topaz-26ph1602ppl-slw",
+      "action": "Verify the matching original back photo; tag the correct variant as back_flat in the authenticated catalogue; then verify same-person back and turn video."
+    },
+    {
+      "garmentId": "oscardelarenta-metallic-tassel-earrings-demo",
+      "title": "Metallic Beaded Tassel Clip-On Earrings",
+      "retailerUrl": "https://www.oscardelarenta.com/products/metallic-beaded-tassel-clip-on-earrings-f26j114-pnk?variant=53342647124331",
+      "action": "Verify the matching original back photo; tag the correct variant as back_flat in the authenticated catalogue; then verify same-person back and turn video."
+    },
+    {
+      "garmentId": "odlr-mixed-botanical-embroidered-oversized-pullover-bru",
+      "title": "Mixed Botanical Embroidered Oversized Pullover",
+      "retailerUrl": "https://www.oscardelarenta.com/products/mixed-botanical-embroidered-oversized-pullover-26fe117fik-bru",
+      "action": "Verify the matching original back photo; tag the correct variant as back_flat in the authenticated catalogue; then verify same-person back and turn video."
+    },
+    {
+      "garmentId": "oscardelarenta-mini-poppy-demo",
+      "title": "The Mini Poppy",
+      "retailerUrl": "https://www.oscardelarenta.com/products/the-mini-poppy-26ph1592pcl-slw?variant=52676734714219",
+      "action": "Verify the matching original back photo; tag the correct variant as back_flat in the authenticated catalogue; then verify same-person back and turn video."
+    }
+  ]
+}
